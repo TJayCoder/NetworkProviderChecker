@@ -1,0 +1,2 @@
+rootProject.name = "Dial Check"
+include ':app'
